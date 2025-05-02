@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- AR Glasses Frame -->
+    <path d="M20 25 C20 15 30 10 40 10 L160 10 C170 10 180 15 180 25 C180 35 170 40 160 40 L40 40 C30 40 20 35 20 25 Z" 
+          fill="none" 
+          stroke="#ffffff" 
+          stroke-width="2"/>
+    
+    <!-- Left Lens -->
+    <circle cx="50" cy="25" r="15" 
+            fill="none" 
+            stroke="#ffffff" 
+            stroke-width="2"/>
+    
+    <!-- Right Lens -->
+    <circle cx="150" cy="25" r="15" 
+            fill="none" 
+            stroke="#ffffff" 
+            stroke-width="2"/>
+    
+    <!-- AR Effect Lines -->
+    <line x1="35" y1="25" x2="45" y2="25" 
+          stroke="#ffffff" 
+          stroke-width="2"/>
+    <line x1="155" y1="25" x2="165" y2="25" 
+          stroke="#ffffff" 
+          stroke-width="2"/>
+    
+    <!-- Meta Orion Text -->
+    <text x="100" y="70" 
+          font-family="Arial" 
+          font-size="24" 
+          font-weight="bold" 
+          text-anchor="middle" 
+          fill="#ffffff">Meta Orion</text>
+</svg> 
